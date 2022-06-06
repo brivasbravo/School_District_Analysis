@@ -16,15 +16,15 @@ to help Maria with this task.
 4. % Passing Math dropped by .2%
 5. % Overall Passing dropped by .1%
 
-PyCitySchoolsOriginal.jpg
-PyCitySchoolsChallenge.jpg
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsOriginal.jpg)
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsChallenge.jpg)
 
 ### How is the school summary affected?
 
 - School summary is affected because can see the change under Thomas HS for both math and reading averages and % passing:
 
-PyCitySchoolsOriginalB.jpg
-PyCitySchoolsChallengeB.jpg
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsOriginalB.jpg)
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsChallengeB.jpg)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -36,12 +36,12 @@ below passing at Thomas HS now.
 Affect by grade is 9th graders math and reading changes to a 'nan' instead of a score:
 
 
-PyCitySchoolsOriginalD.jpg
-PyCitySchoolsChallengeD.jpg
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsOriginalD.jpg)
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsChallengeD.jpg)
 
 
-PyCitySchoolsOriginalC.jpg
-PyCitySchoolsChallengeC.jpg
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsOriginalC.jpg)
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsChallengeC.jpg)
 
 
 ### Scores by School spending
@@ -53,8 +53,8 @@ Math and reading passing % went down by .022 and .072 % and overall passing perc
 Changes all happened within $631-645 spending range row because Thomas HS is within this limit.
 
 
-PyCitySchoolsOriginalE.jpg
-PyCitySchoolsChallengeE.jpg
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsOriginalE.jpg)
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsChallengeE.jpg)
 
 
 ### Scores by School Size
@@ -63,8 +63,8 @@ Thomas HS is under the Medium (1000-1999) School Size so scores only changed for
 and unformatted version of table has to be used to note the difference. Average math score dropped by .01, average reading
 up by .1, % Passing Math is down by .017%, % Passing Reading down by .06%, and % Overall Passing is down by .07%.
 
-PyCitySchoolsOriginalF.jpg
-PyCitySchoolsChallengeF.jpg
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsOriginalF.jpg)
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsChallengeF.jpg)
 
 
 ### Scores by School Type
@@ -73,15 +73,13 @@ We again see small difference and are required to use the unformatted table belo
 is classified as a Charter School so only affects this row. Average Math Scores down by .01, Average Reading Score
 up by .01, % Passing Math down by .01%, % Passing Reading down by .03%, and % Overall Passing down by .04%.
 
-PyCitySchoolsOriginalG.jpg
-PyCitySchoolsChallengeG.jpg
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsOriginalG.jpg)
+![alt text](https://github.com/brivasbravo/School_District_Analysis/blob/main/PyCitySchoolsChallengeG.jpg)
 
 ### Summary
 
 Changes were minimal throughout except for at the School level which plunged the Passing Math, Passing Reading and Overall Passing
 % from the 90s to the 60s.
-
-
 
 
 
